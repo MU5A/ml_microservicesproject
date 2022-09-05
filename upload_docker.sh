@@ -6,7 +6,7 @@
 # Step 1:
 # Create dockerpath
 # dockerpath=<your docker ID/path>
-dockerpath="abasstiamiyu/microservicesproject:v1"
+dockerpath="mu5a/microservicesproject"
 
 # Step 2:  
 # Authenticate & tag

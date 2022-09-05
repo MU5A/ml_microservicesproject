@@ -12,4 +12,4 @@ docker image list
 
 # Step 3: 
 # Run flask app
-docker run -p 8000:80 microservicesproject
+docker run -p 8000:900 microservicesproject
