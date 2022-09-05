@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-[![MU5A](https://circleci.com/gh/MU5A/ml_microservicesproject.svg?style=svg)](https://app.circleci.com/pipelines/github/MU5A/ml_microservicesproject)
-=======
-[![<MU5A>](https://circleci.com/<gh>/<MU5A>/<ml_microservicesproject>.svg?style=svg)](https://app.circleci.com/pipelines/github/MU5A/ml_microservicesproject)
->>>>>>> f4bb40371f2307fc602d2e041d257a63033e09d3
+
+[![<MU5A>](https://circleci.com/<gh>/<MU5A>/<ml_microservicesproject>.svg?style=svg)](https://app.circleci.com/pipelines/github/MU5A/ml_microservicesproject/7/workflows/d6c1cf46-b8c8-41aa-a22d-30a4baa35724)
+
 
 **Project Overview**
 Project Summary A Scikit-Learn-based Machine Learning Microservice is part of the Operationalize ML project. It includes a model that forecasts Boston home values based on a number of characteristics, including the typical number of rooms in a home and information on highway accessibility, teacher-to-student ratios, and other factors. The project's objective is to use kubernetes, an open-source technology for automating the management of containerized applications, to operationalize this functional machine learning microservice.
