@@ -1,5 +1,5 @@
 
-[![<MU5A>](https://circleci.com/<gh>/<MU5A>/<ml_microservicesproject>.svg?style=svg)](https://app.circleci.com/pipelines/github/MU5A/ml_microservicesproject/7/workflows/d6c1cf46-b8c8-41aa-a22d-30a4baa35724)
+[![MU5A](https://circleci.com/gh/MU5A/ml_microservicesproject.svg?style=svg)](https://app.circleci.com/pipelines/github/MU5A/ml_microservicesproject/7/workflows/d6c1cf46-b8c8-41aa-a22d-30a4baa35724)
 
 
 **Project Overview**
